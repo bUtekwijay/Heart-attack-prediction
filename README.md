@@ -17,11 +17,14 @@ The model was trained using various classification algorithms such as K-Nearest 
 - Real-time predictions with clear output labels
 
 Heart-Attack-Prediction/
-│
-├── app.py                 # Streamlit web application
-├── final_best_model.pkl   # Saved trained model (KNN)
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+
+├─ app.py                 # Streamlit web application
+
+├─ final_best_model.pkl   # Saved trained model (KNN)
+
+├─ requirements.txt       # Python dependencies
+
+└─ README.md              # Project documentation
 
 
 ## Model Training Overview
